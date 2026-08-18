@@ -1,0 +1,522 @@
+[
+  {
+    "id": 1,
+    "organization": "Bruhan Maharashtra Mandal",
+    "website": "https://www.bmmonline.org/",
+    "publication": "Vrutta",
+    "publicationUrl": "https://bmmonline.org/vrutta/",
+    "status": "Known publication",
+    "latest": "",
+    "lastChecked": ""
+  },
+  {
+    "id": 2,
+    "organization": "Maharashtra Foundation",
+    "website": "https://www.maharashtrafoundation.org/",
+    "publication": "",
+    "publicationUrl": "",
+    "status": "Needs review",
+    "latest": "",
+    "lastChecked": ""
+  },
+  {
+    "id": 3,
+    "organization": "Maharashtra Mandal Atlanta",
+    "website": "https://www.mmatlanta.org/",
+    "publication": "",
+    "publicationUrl": "",
+    "status": "Needs review",
+    "latest": "",
+    "lastChecked": ""
+  },
+  {
+    "id": 4,
+    "organization": "Maharashtra Mandal Abu Dhabi",
+    "website": "https://www.mmabudhabi.com/",
+    "publication": "",
+    "publicationUrl": "",
+    "status": "Needs review",
+    "latest": "",
+    "lastChecked": ""
+  },
+  {
+    "id": 5,
+    "organization": "Maharashtra Sneha Mandal Indiana",
+    "website": "https://www.msmionline.org/",
+    "publication": "",
+    "publicationUrl": "",
+    "status": "Needs review",
+    "latest": "",
+    "lastChecked": ""
+  },
+  {
+    "id": 6,
+    "organization": "East Bay Marathi Mandal",
+    "website": "https://www.ebmm.org/",
+    "publication": "",
+    "publicationUrl": "",
+    "status": "Needs review",
+    "latest": "",
+    "lastChecked": ""
+  },
+  {
+    "id": 7,
+    "organization": "Edmonton Marathi Mandal",
+    "website": "https://mbmedmonton.org/",
+    "publication": "",
+    "publicationUrl": "",
+    "status": "Needs review",
+    "latest": "",
+    "lastChecked": ""
+  },
+  {
+    "id": 8,
+    "organization": "Oregon Marathi Mandal",
+    "website": "https://www.oregonmm.org/",
+    "publication": "",
+    "publicationUrl": "",
+    "status": "Needs review",
+    "latest": "",
+    "lastChecked": ""
+  },
+  {
+    "id": 9,
+    "organization": "Orlando Marathi Mandal",
+    "website": "https://www.orlandomarathi.com/",
+    "publication": "",
+    "publicationUrl": "",
+    "status": "Needs review",
+    "latest": "",
+    "lastChecked": ""
+  },
+  {
+    "id": 10,
+    "organization": "Austin Marathi Mandal",
+    "website": "https://www.austinmarathimandal.org/",
+    "publication": "",
+    "publicationUrl": "",
+    "status": "Needs review",
+    "latest": "",
+    "lastChecked": ""
+  },
+  {
+    "id": 11,
+    "organization": "Connecticut Marathi Mandal",
+    "website": "https://www.maharashtramandalct.org/",
+    "publication": "",
+    "publicationUrl": "",
+    "status": "Needs review",
+    "latest": "",
+    "lastChecked": ""
+  },
+  {
+    "id": 12,
+    "organization": "Kuwait Maharashtra Mandal",
+    "website": "https://www.maharashtramandalkw.org/",
+    "publication": "",
+    "publicationUrl": "",
+    "status": "Needs review",
+    "latest": "",
+    "lastChecked": ""
+  },
+  {
+    "id": 13,
+    "organization": "Colorado Marathi Mandal",
+    "website": "https://www.comarathi.org/",
+    "publication": "",
+    "publicationUrl": "",
+    "status": "Needs review",
+    "latest": "",
+    "lastChecked": ""
+  },
+  {
+    "id": 14,
+    "organization": "Kansas City Maharashtra Mandal",
+    "website": "https://www.mmkansascity.org/",
+    "publication": "",
+    "publicationUrl": "",
+    "status": "Needs review",
+    "latest": "",
+    "lastChecked": ""
+  },
+  {
+    "id": 15,
+    "organization": "Columbus Maharashtra Mandal",
+    "website": "https://www.columbusmm.org/",
+    "publication": "BMM Vrutta",
+    "publicationUrl": "https://bmmonline.org/vrutta/",
+    "status": "Known publication",
+    "latest": "",
+    "lastChecked": ""
+  },
+  {
+    "id": 16,
+    "organization": "Northeast Ohio Marathi Mandal",
+    "website": "https://www.neomm.org/",
+    "publication": "Jyoti",
+    "publicationUrl": "https://www.neomm.org/jyotimagazine",
+    "status": "Known publication",
+    "latest": "",
+    "lastChecked": ""
+  },
+  {
+    "id": 17,
+    "organization": "Jacksonville Maharashtra Mandal",
+    "website": "https://www.mmjax.org/",
+    "publication": "",
+    "publicationUrl": "",
+    "status": "Needs review",
+    "latest": "",
+    "lastChecked": ""
+  },
+  {
+    "id": 18,
+    "organization": "Tokyo Marathi Mandal",
+    "website": "https://www.sutra.co.jp/",
+    "publication": "",
+    "publicationUrl": "",
+    "status": "Needs review",
+    "latest": "",
+    "lastChecked": ""
+  },
+  {
+    "id": 19,
+    "organization": "Marathi Bhashik Mandal Toronto",
+    "website": "https://www.mbmtoronto.com/",
+    "publication": "",
+    "publicationUrl": "",
+    "status": "Needs review",
+    "latest": "",
+    "lastChecked": ""
+  },
+  {
+    "id": 20,
+    "organization": "Tampa Bay Maayboli Melava",
+    "website": "https://www.maaybolitampabay.org/",
+    "publication": "",
+    "publicationUrl": "",
+    "status": "Needs review",
+    "latest": "",
+    "lastChecked": ""
+  },
+  {
+    "id": 21,
+    "organization": "Dallas Fort Worth Marathi Mandal",
+    "website": "https://www.dfwmm.org/",
+    "publication": "Pratibimb",
+    "publicationUrl": "",
+    "status": "Known publication",
+    "latest": "",
+    "lastChecked": ""
+  },
+  {
+    "id": 22,
+    "organization": "Maharashtra Mandal Detroit",
+    "website": "https://www.mmdet.org/",
+    "publication": "",
+    "publicationUrl": "",
+    "status": "Needs review",
+    "latest": "",
+    "lastChecked": ""
+  },
+  {
+    "id": 23,
+    "organization": "Delaware Valley Marathi Mitra Mandal",
+    "website": "https://www.dvmmm.org/",
+    "publication": "",
+    "publicationUrl": "",
+    "status": "Needs review",
+    "latest": "",
+    "lastChecked": ""
+  },
+  {
+    "id": 24,
+    "organization": "Dubai Maharashtra Mandal",
+    "website": "https://www.mmdubai.org/",
+    "publication": "",
+    "publicationUrl": "",
+    "status": "Needs review",
+    "latest": "",
+    "lastChecked": ""
+  },
+  {
+    "id": 25,
+    "organization": "Marathi Vishwa NJ",
+    "website": "https://marathivishwa.org/",
+    "publication": "Rangdeep",
+    "publicationUrl": "https://marathivishwa.org/mv-community-katta/",
+    "status": "Known publication",
+    "latest": "",
+    "lastChecked": ""
+  },
+  {
+    "id": 26,
+    "organization": "New York Maharashtra Mandal",
+    "website": "https://www.maharashtramandalny.com/",
+    "publication": "",
+    "publicationUrl": "",
+    "status": "Needs review",
+    "latest": "",
+    "lastChecked": ""
+  },
+  {
+    "id": 27,
+    "organization": "Pittsburgh Maharashtra Mandal",
+    "website": "https://www.mmpgh.org/",
+    "publication": "",
+    "publicationUrl": "",
+    "status": "Needs review",
+    "latest": "",
+    "lastChecked": ""
+  },
+  {
+    "id": 28,
+    "organization": "Peoria Illinois BMM",
+    "website": "https://sites.google.com/",
+    "publication": "",
+    "publicationUrl": "",
+    "status": "Needs review",
+    "latest": "",
+    "lastChecked": ""
+  },
+  {
+    "id": 29,
+    "organization": "Phoenix Maharashtra Mandal",
+    "website": "https://www.phxmm.com/",
+    "publication": "",
+    "publicationUrl": "",
+    "status": "Needs review",
+    "latest": "",
+    "lastChecked": ""
+  },
+  {
+    "id": 30,
+    "organization": "Philadelphia Marathi Mandal",
+    "website": "https://www.phillymm.org/",
+    "publication": "Diwali Ank",
+    "publicationUrl": "https://www.phillymm.org/diwali-ank",
+    "status": "Known publication",
+    "latest": "",
+    "lastChecked": ""
+  },
+  {
+    "id": 31,
+    "organization": "France Maharashtra Mandal",
+    "website": "https://www.maharashtramandalfrance.org/",
+    "publication": "",
+    "publicationUrl": "",
+    "status": "Needs review",
+    "latest": "",
+    "lastChecked": ""
+  },
+  {
+    "id": 32,
+    "organization": "Bahrain Maharashtra Cultural Mandal",
+    "website": "https://www.mcs-bahrain.com/",
+    "publication": "",
+    "publicationUrl": "",
+    "status": "Needs review",
+    "latest": "",
+    "lastChecked": ""
+  },
+  {
+    "id": 33,
+    "organization": "New England Marathi Mandal",
+    "website": "https://www.nemm.org/",
+    "publication": "",
+    "publicationUrl": "",
+    "status": "Needs review",
+    "latest": "",
+    "lastChecked": ""
+  },
+  {
+    "id": 34,
+    "organization": "Marathi Association of Minnesota",
+    "website": "https://www.marathiassociationofmn.com/",
+    "publication": "Hitguj",
+    "publicationUrl": "https://www.mnmarathi.org/hitguj-magazine/",
+    "status": "Known publication",
+    "latest": "",
+    "lastChecked": ""
+  },
+  {
+    "id": 35,
+    "organization": "Milwaukee Maharashtra Mandal",
+    "website": "https://maharashtramandal.org/",
+    "publication": "",
+    "publicationUrl": "",
+    "status": "Needs review",
+    "latest": "",
+    "lastChecked": ""
+  },
+  {
+    "id": 36,
+    "organization": "Greater Richmond Marathi Mandal",
+    "website": "https://www.grmm.us/",
+    "publication": "",
+    "publicationUrl": "",
+    "status": "Needs review",
+    "latest": "",
+    "lastChecked": ""
+  },
+  {
+    "id": 37,
+    "organization": "RTP Maharashtra Mandal",
+    "website": "https://www.rtpmm.org/",
+    "publication": "",
+    "publicationUrl": "",
+    "status": "Needs review",
+    "latest": "",
+    "lastChecked": ""
+  },
+  {
+    "id": 38,
+    "organization": "Maharashtra Mandal London",
+    "website": "https://www.mmlondon.co.uk/",
+    "publication": "",
+    "publicationUrl": "",
+    "status": "Needs review",
+    "latest": "",
+    "lastChecked": ""
+  },
+  {
+    "id": 39,
+    "organization": "Maharashtra Mandal Los Angeles",
+    "website": "https://www.mmla.org/",
+    "publication": "",
+    "publicationUrl": "",
+    "status": "Needs review",
+    "latest": "",
+    "lastChecked": ""
+  },
+  {
+    "id": 40,
+    "organization": "Marathi Society of British Columbia",
+    "website": "https://www.marathi-society-of-bc.org/",
+    "publication": "",
+    "publicationUrl": "",
+    "status": "Needs review",
+    "latest": "",
+    "lastChecked": ""
+  },
+  {
+    "id": 41,
+    "organization": "Marathi Kala Mandal Washington DC",
+    "website": "https://marathi.com/",
+    "publication": "Hitguj",
+    "publicationUrl": "https://marathi.com/hitguj/",
+    "status": "Known publication",
+    "latest": "",
+    "lastChecked": ""
+  },
+  {
+    "id": 42,
+    "organization": "Maharashtra Mandal Chicago",
+    "website": "https://www.mahamandalchicago.org/",
+    "publication": "",
+    "publicationUrl": "",
+    "status": "Needs review",
+    "latest": "",
+    "lastChecked": ""
+  },
+  {
+    "id": 43,
+    "organization": "Maharashtra Mandal South Florida",
+    "website": "https://www.mmosf.org/",
+    "publication": "Darpan",
+    "publicationUrl": "https://www.mmosf.org/darpan-newsletter-2/",
+    "status": "Known publication",
+    "latest": "",
+    "lastChecked": ""
+  },
+  {
+    "id": 44,
+    "organization": "Seattle Marathi Mandal",
+    "website": "https://www.seattlemm.org/",
+    "publication": "",
+    "publicationUrl": "",
+    "status": "Needs review",
+    "latest": "",
+    "lastChecked": ""
+  },
+  {
+    "id": 45,
+    "organization": "Sydney Marathi Mandal",
+    "website": "https://www.marathi.org.au/",
+    "publication": "",
+    "publicationUrl": "",
+    "status": "Needs review",
+    "latest": "",
+    "lastChecked": ""
+  },
+  {
+    "id": 46,
+    "organization": "Triveni Mitra Mandal Cincinnati",
+    "website": "https://www.triveni-mandal.org/",
+    "publication": "Samwad",
+    "publicationUrl": "https://www.triveni-mandal.org/samwad",
+    "status": "Known publication",
+    "latest": "",
+    "lastChecked": ""
+  },
+  {
+    "id": 47,
+    "organization": "Singapore Maharashtra Mandal",
+    "website": "https://www.maharashtra-mandal-singapore.org/",
+    "publication": "",
+    "publicationUrl": "",
+    "status": "Needs review",
+    "latest": "",
+    "lastChecked": ""
+  },
+  {
+    "id": 48,
+    "organization": "St. Louis Marathi Mandal",
+    "website": "https://www.stlmarathimandal.org/",
+    "publication": "",
+    "publicationUrl": "",
+    "status": "Needs review",
+    "latest": "",
+    "lastChecked": ""
+  },
+  {
+    "id": 49,
+    "organization": "Marathi Mandal Sacramento",
+    "website": "https://www.mmsac.org/",
+    "publication": "",
+    "publicationUrl": "",
+    "status": "Needs review",
+    "latest": "",
+    "lastChecked": ""
+  },
+  {
+    "id": 50,
+    "organization": "San Diego Marathi Mandal",
+    "website": "https://www.mmsandiego.org/",
+    "publication": "",
+    "publicationUrl": "",
+    "status": "Needs review",
+    "latest": "",
+    "lastChecked": ""
+  },
+  {
+    "id": 51,
+    "organization": "Maharashtra Mandal Bay Area",
+    "website": "https://www.mmbayarea.org/",
+    "publication": "",
+    "publicationUrl": "",
+    "status": "Needs review",
+    "latest": "",
+    "lastChecked": ""
+  },
+  {
+    "id": 52,
+    "organization": "Houston Marathi Mandal",
+    "website": "https://www.hmmhouston.org/",
+    "publication": "",
+    "publicationUrl": "",
+    "status": "Needs review",
+    "latest": "",
+    "lastChecked": ""
+  }
+]

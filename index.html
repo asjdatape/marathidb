@@ -1,69 +1,44 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
 <head>
-<meta charset="UTF-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<title>Indian Magazines - Free Online PDF Directory</title>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Marathi Community Newsletter Monitor</title>
+<meta name="description" content="Searchable directory of Marathi community organizations and newsletters/publications.">
 <style>
-    body { font-family: Arial, sans-serif; background:#fafafa; margin:20px; line-height:1.5; }
-    h1 { text-align:left; }
-    h2 { margin-top:40px; border-bottom:2px solid #333; padding-bottom:5px; }
-    .section { margin-bottom:25px; }
-    ul { list-style:none; padding:0; }
-    li { margin:6px 0; }
-    a { text-decoration:none; color:#0077cc; }
-    a:hover { text-decoration:underline; }
-    .tag { background:#eee; padding:2px 6px; margin-left:6px; font-size:12px; border-radius:4px; }
-
-    /* Marathi dashboard styling merged in */
-    .mr-dashboard { margin-top:50px; padding:20px; background:#ffffff; border-radius:8px; border:1px solid #ddd; }
-    .mr-dashboard h1 { text-align:center; color:#2c3e50; }
-    .mr-dashboard section { margin-bottom: 2rem; padding-bottom: 1rem; border-bottom: 1px solid #ddd; }
-    .mr-dashboard h2 { margin-top: 1rem; color:#34495e; border-bottom:none; padding-bottom:0; }
-    .mr-dashboard ul { margin-top: 0.5rem; padding-left: 1.2rem; list-style:disc; }
-    .mr-dashboard a { color:#0066cc; }
-    .mr-note { font-size: 0.85rem; color:#555; background:#f0f0f0; padding:0.5rem; border-radius:4px; }
-    .epaper { background:#e8f5e8; padding:1rem; border-radius:8px; margin:1rem 0; }
-</style>
-</head>
-
+*{box-sizing:border-box}body{margin:0;font-family:Arial,sans-serif;background:#f5f7fb;color:#172033}
+header{background:#18243a;color:white;padding:28px 20px}main{max-width:1250px;margin:auto;padding:20px}
+h1{margin:0 0 8px;font-size:28px}.sub{opacity:.82}
+.controls{display:flex;gap:10px;flex-wrap:wrap;margin:18px 0}.controls input,.controls select{padding:11px 12px;border:1px solid #ccd3df;border-radius:8px;background:white}
+.stats{display:flex;gap:12px;flex-wrap:wrap;margin-bottom:18px}.stat{background:white;border:1px solid #e0e5ed;border-radius:10px;padding:13px 18px}.stat b{font-size:20px;display:block}
+.tablewrap{background:white;border:1px solid #e0e5ed;border-radius:10px;overflow:auto}
+table{border-collapse:collapse;width:100%;min-width:900px}th,td{text-align:left;padding:11px;border-bottom:1px solid #edf0f4;vertical-align:top}th{background:#eef2f7;position:sticky;top:0}tr:hover{background:#fafcff}
+a{color:#1459b8;text-decoration:none}a:hover{text-decoration:underline}.badge{display:inline-block;padding:4px 8px;border-radius:20px;font-size:12px;background:#fff0c2}.known{background:#dff5e5}
+footer{padding:20px 0;color:#667085;font-size:13px}
+</style></head>
 <body>
-<h1>Indian Magazines — Free Online PDF / E-Magazines Directory</h1>
-<p>A compact directory of free online Indian magazines across English, Hindi, Marathi, and NRI/USA categories.</p>
-
-<!-- English -->
-<h2>English Magazines (Free PDF / Online Issues)</h2>
-<ul>
-    <li><a href="https://www.frontline.in" target="_blank">Frontline</a></li>
-    <li><a href="https://www.epw.in" target="_blank">Economic & Political Weekly (EPW)</a></li>
-    <li><a href="https://www.outlookindia.com/magazine" target="_blank">Outlook India</a></li>
-    <li><a href="https://www.theweek.in" target="_blank">The Week</a></li>
-    <li><a href="https://www.caravanmagazine.in" target="_blank">The Caravan</a></li>
-    <li><a href="https://hinduismtoday.com" target="_blank">Hinduism Today</a></li>
-    <li><a href="https://www.readerism.com" target="_blank">Readerism (Free PDF Library)</a></li>
-    <li><a href="https://magzter.com/free-magazines" target="_blank">Magzter Free Issues</a></li>
-</ul>
-
-<!-- Hindi -->
-<h2>Hindi Magazines</h2>
-<ul>
-    <li><a href="https://www.pratiyogitadarpan.in" target="_blank">Pratiyogita Darpan (Free PDF)</a></li>
-    <li><a href="https://www.jagranjosh.com" target="_blank">Jagran Josh Magazines</a></li>
-    <li><a href="https://dainikbhaskar.com" target="_blank">Dainik Bhaskar Supplements</a></li>
-    <li><a href="https://epaper.livehindustan.com" target="_blank">Hindustan Hindi ePaper</a></li>
-</ul>
-
-<!-- Marathi -->
-<h2>Marathi Magazines</h2>
-<ul>
-    <li><a href="https://maharashtratimes.com" target="_blank">Maharashtra Times Supplements</a></li>
-    <li><a href="https://www.loksatta.com" target="_blank">Loksatta Magazines</a></li>
-    <li><a href="https://www.saptahiksakal.com" target="_blank">Saptahik Sakal</a></li>
-    <li><a href="https://madhuraraja.in" target="_blank">Madhura (Free Issues)</a></li>
-</ul>
-
-<!-- Diaspora Local Niche -->
-<h2>Local / Diaspora / Niche Publishers</h2>
-<ul>
-    <li><a href="https://deshvidesh.com" target="_blank">Desh Videsh Magazine</a> <span class="tag">USA</span></li>
-    <li><a href="
+<header><main><h1>Marathi Community Newsletter Monitor</h1><div class="sub">52 organizations • websites • newsletters & publications</div></main></header>
+<main>
+<div class="controls"><input id="q" placeholder="Search organization or publication..." oninput="render()">
+<select id="status" onchange="render()"><option value="">All statuses</option><option>Known publication</option><option>Needs review</option></select></div>
+<div class="stats"><div class="stat"><b id="total">0</b>Total organizations</div><div class="stat"><b id="pubs">0</b>Known publications</div><div class="stat"><b id="review">0</b>Needs review</div></div>
+<div class="tablewrap"><table><thead><tr><th>#</th><th>Organization</th><th>Website</th><th>Publication</th><th>Latest</th><th>Status</th></tr></thead><tbody id="rows"></tbody></table></div>
+<footer>Data source: Antaraal organization directory. Publication links should be periodically verified by the Python monitor.</footer>
+</main>
+<script>
+let data=[];
+fetch('organizations.json').then(r=>r.json()).then(x=>{data=x;render()}).catch(e=>document.getElementById('rows').innerHTML='<tr><td colspan="6">Could not load organizations.json</td></tr>');
+function esc(s){return String(s||'').replace(/[&<>"']/g,m=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[m]))}
+function render(){
+ const q=document.getElementById('q').value.toLowerCase(), st=document.getElementById('status').value;
+ const f=data.filter(x=>(!q||(x.organization+' '+x.publication).toLowerCase().includes(q))&&(!st||x.status===st));
+ document.getElementById('total').textContent=data.length;
+ document.getElementById('pubs').textContent=data.filter(x=>x.publicationUrl).length;
+ document.getElementById('review').textContent=data.filter(x=>!x.publicationUrl).length;
+ document.getElementById('rows').innerHTML=f.map(x=>`<tr>
+ <td>${x.id}</td><td><b>${esc(x.organization)}</b></td>
+ <td><a target="_blank" rel="noopener" href="${esc(x.website)}">Open site ↗</a></td>
+ <td>${x.publicationUrl?`<a target="_blank" rel="noopener" href="${esc(x.publicationUrl)}">${esc(x.publication||'Publication')}</a>`:'—'}</td>
+ <td>${esc(x.latest||'—')}</td>
+ <td><span class="badge ${x.publicationUrl?'known':''}">${esc(x.status)}</span></td></tr>`).join('');
+}
+</script></body></html>
